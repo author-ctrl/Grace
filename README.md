@@ -15,7 +15,7 @@
    ```
    
 4. **Get Your Telegram Chat ID**  
-   To find your chat ID, [click here](#how-to-find-my-telegram-chatid) for detailed instructions.
+   To find your chat ID, [click here](#How-to-Find-My-Telegram-Chat-ID) for detailed instructions.
 
 **Congrats!** You now have access to control your PC remotely using the Telegram bot.
 
